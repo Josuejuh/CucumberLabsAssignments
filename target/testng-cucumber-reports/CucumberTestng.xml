@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="1" skipped="0" total="1">
+    <suite duration-ms="9673" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="9673" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="First Scenario">
+                <test-method duration-ms="9546" finished-at="2022-06-28T02:35:46.499885Z" name="Scenario 01 OrangeHRP App" started-at="2022-06-28T02:35:36.936152Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
